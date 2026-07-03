@@ -1,0 +1,11 @@
+{
+  "repository_owner": "@marcos.scheffler",
+  "drivers": [
+    {
+      "id": "zigbee-lock-mvs",
+      "status": "stable",
+      "path": "drivers/SmartThings/zigbee-lock",
+      "version": "1.0.0"
+    }
+  ]
+}
